@@ -1,4 +1,6 @@
 ### Hi there 👋
+Just started coding.
+Wish me luck.
 
 <!--
 **nasimbhigh/nasimbhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
